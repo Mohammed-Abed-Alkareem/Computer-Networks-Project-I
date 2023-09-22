@@ -16,12 +16,12 @@ and it should	read	a	file	containing	at	least two	numbers	to	perform the	operati
 Welcome Page <br>                                                         
 :------------------------------------------------------------------------------------------------------------------------------:
 
-  <img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un1titled.png" width="500vw" />
+  <img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/main.jpg" width="500vw" />
 </p>
 
 English Page                                                       |  Arabic PAge
 :---------------------------------------------------------------:|:---------------------------------------------------------------:
-<img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un41ti%3Btled.png" width="500vw">  |  <img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un41titled.png" width="500vw">
+<img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/english.jpeg" width="500vw">  |  <img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/arabic.png" width="500vw">
 
 
 
