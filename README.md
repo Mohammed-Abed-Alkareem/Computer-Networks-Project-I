@@ -37,5 +37,5 @@ Laptops Sorted By Name                                                       |  
 
 # Authors
 
-Mohammed Abed Alkareem
-Ahmad Qaimari
+### Mohammed Abed Alkareem
+### Ahmad Qaimari
