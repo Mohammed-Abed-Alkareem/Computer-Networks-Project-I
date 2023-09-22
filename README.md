@@ -21,7 +21,7 @@ Welcome Page <br>
 
 English Page                                                       |  Arabic PAge
 :---------------------------------------------------------------:|:---------------------------------------------------------------:
-<img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un1titled.png" width="500vw">  |  <img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un1titled.png" width="500vw">
+<img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un41ti%3Btled.png" width="500vw">  |  <img src="https://github.com/Mohammed-Abed-Alkareem/Computer-Networks-Project/blob/main/ScreenShots/Un1titled.png" width="500vw">
 
 
 
