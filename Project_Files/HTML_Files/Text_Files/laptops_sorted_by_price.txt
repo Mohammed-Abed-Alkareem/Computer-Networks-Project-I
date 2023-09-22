@@ -1,0 +1,5 @@
+lenovo 500
+dell 1000
+dell 1999
+hp 2000
+mac 10000
