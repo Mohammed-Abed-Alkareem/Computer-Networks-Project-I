@@ -9,7 +9,6 @@ Using socket programming, implement a simple but complete web server in Python t
 
 # Specifications
 
-
 <p align="center" >
 Welcome Page <br>                                                         
 :------------------------------------------------------------------------------------------------------------------------------:
